@@ -18,8 +18,8 @@ Celem ćwiczenia jest sprawdzenie jak radzisz sobie z kodem PHP, konstruowaniem 
 
 ## Co może (ale nie musi) być zawarte w rozwiązaniu
 
-1. Możliwość dodania kategorii do arykułów.
-2. Formularz logowania / rejestracji uzytkownika.
+1. Możliwość dodania kategorii do artykułów.
+2. Formularz logowania / rejestracji użytkownika.
 3. Dostęp tylko dla zalogowanych użytkowników.
 
 ## Na co warto zwrócić uwagę?
