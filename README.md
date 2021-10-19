@@ -7,6 +7,7 @@
 
 Twoim zadaniem będzie stworzenie prostego panelu do zarządzania artykułami. 
 Celem ćwiczenia jest sprawdzenie jak radzisz sobie z kodem PHP, konstruowaniem zapytan Mysql, oraz stosowaniem dobrych praktyk w programowaniu.
+Pliki projektu możesz do nas wysłać mailem, umieścić na dysku google lub innej platformie, albo przesłać link do repozytorium github/gitlab/bitbucket.
 
 ## Co musi być zawarte w rozwiązaniu?
 
@@ -14,7 +15,7 @@ Celem ćwiczenia jest sprawdzenie jak radzisz sobie z kodem PHP, konstruowaniem 
 2. Formularz edycji, dodawania artykułów (wymagane pola: tytuł, opis, status).
 3. Możliwość usunięcia artykułów.
 4. Zrzut bazy danych.
-5. Plik z konfiguracją projektu.
+5. Plik z konfiguracją projektu. 
 
 ## Co może (ale nie musi) być zawarte w rozwiązaniu
 
